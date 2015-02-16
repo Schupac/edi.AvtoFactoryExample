@@ -8,7 +8,7 @@ import javax.ejb.EJB;
 import javax.ejb.Stateless;
 import javax.naming.InitialContext;
 
-import src.AvtoFactoryExample.data ExampleCar;
+import src.AvtoFactoryExample.data.ExampleCar;
 import src.AvtoFactoryExample.model.BoardType;
 import src.AvtoFactoryExample.model.Door;
 import src.AvtoFactoryExample.model.Engine;
